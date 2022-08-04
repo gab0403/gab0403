@@ -20,6 +20,7 @@ Bibliotecas/Frameworks:
 ![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![REACT ROUTER](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Express](https://img.shields.io/badge/-EXPRESS-green?style=for-the-badge&logo=express&logoColor=white)
 
 Ferramentas:
 
