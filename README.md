@@ -41,4 +41,3 @@ No momento estou estudando isso:
 Me visite ou me contate: 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielarodrigues-dev/)
-Email: gabriela0403rodriguesdossanto@gmail.com
