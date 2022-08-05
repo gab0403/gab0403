@@ -38,6 +38,8 @@ No momento estou estudando isso:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-Me visite: 
+Me visite ou me contate: 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielarodrigues-dev/)
+[![Email](https://img.shields.io/badge/gmail?style=for-the-badge&logo=gmail&logoColor=white)]
+(gabriela0403rodriguesdossanto@gmail.com)
