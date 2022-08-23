@@ -15,7 +15,7 @@ Tecnologias:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 Bibliotecas/Frameworks:
-https://img.shields.io/badge/-MOCHA-brown
+
 ![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -25,6 +25,8 @@ https://img.shields.io/badge/-MOCHA-brown
 ![Express](https://img.shields.io/badge/-EXPRESS-green?style=for-the-badge&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-lightgrey?style=for-the-badge&logo=jwt&logoColor=white)
 ![MOCHA](https://img.shields.io/badge/-MOCHA-brown?style=for-the-badge&logo=mocha&logoColor=white)
+![CHAI](https://img.shields.io/badge/-CHAI-red?style=for-the-badge&logo=mocha&logoColor=white)
+![SINON](https://img.shields.io/badge/-SINON-green?style=for-the-badge&logo=mocha&logoColor=white)
 
 Ferramentas:
 
