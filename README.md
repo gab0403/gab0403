@@ -15,6 +15,7 @@ Tecnologias:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-mongoDB-yellowgreen?style=for-the-badge&logo=mongodb&logoColor=white)
 
+
 Bibliotecas/Frameworks:
 
 ![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -28,6 +29,7 @@ Bibliotecas/Frameworks:
 ![MOCHA](https://img.shields.io/badge/-MOCHA-brown?style=for-the-badge&logo=mocha&logoColor=white)
 ![CHAI](https://img.shields.io/badge/-CHAI-red?style=for-the-badge&logo=mocha&logoColor=white)
 ![SINON](https://img.shields.io/badge/-SINON-green?style=for-the-badge&logo=mocha&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-sequelize-blue?style=for-the-badge&logo=sequelize&logoColor=white)
 
 Ferramentas:
 
