@@ -43,6 +43,7 @@ Ferramentas:
 ![Heroku](https://img.shields.io/badge/-HEROKU-purple?style=for-the-badge&logo=Heroku&logoColor=white)
 
 No momento estou estudando isso:
+
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
 
 Me visite ou me contate: 
