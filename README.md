@@ -45,6 +45,7 @@ Ferramentas:
 No momento estou estudando isso:
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=php&logoColor=white)
 
 Me visite ou me contate: 
 
