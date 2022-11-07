@@ -32,12 +32,12 @@
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
  
-![REACT ROUTER](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+<!-- ![REACT ROUTER](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/-RTL-purple?style=for-the-badge&logo=react-testing-library&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-lightgrey?style=for-the-badge&logo=jwt&logoColor=white)
 ![CHAI](https://img.shields.io/badge/-CHAI-red?style=for-the-badge&logo=mocha&logoColor=white)
 ![SINON](https://img.shields.io/badge/-SINON-green?style=for-the-badge&logo=mocha&logoColor=white)
-![Sequelize](https://img.shields.io/badge/-sequelize-blue?style=for-the-badge&logo=sequelize&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-sequelize-blue?style=for-the-badge&logo=sequelize&logoColor=white) -->
 
 </p>
 
@@ -48,11 +48,11 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 
-![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<!-- ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) -->
 </p>
 
 <h3 align="left">No momento estou estudando isso:</h3>
