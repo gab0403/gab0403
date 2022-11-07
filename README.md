@@ -2,7 +2,7 @@
 
 Sobre mim:
 
-Desenvolvedora Web FullStack e graduanda em Pedagogia. Amo ler livros de romance, suspense e terror, e cuidar das minhas suculentas.:potted_plant: :books:
+Desenvolvedora Web FullStack e graduanda em Pedagogia. Amo ler livros de romance, suspense e terror, e cuidar das minhas suculentas.:potted_plant::books:
 
 Tecnologias: 
 
