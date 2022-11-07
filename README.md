@@ -1,5 +1,5 @@
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gab0403&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gab0403&show_icons=true&locale=en&theme=radical" alt="gab0403" /> </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gab0403&show_icons=true&locale=en&layout=compact" alt="gab0403" /> </p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gab0403&show_icons=true&locale=en&theme=radical" alt="gab0403" /> </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gab0403&show_icons=true&locale=en&layout=compact" alt="gab0403" /> </p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gab0403&" alt="gab0403" /></p>
 
 <h1 align="center">Sobre mim:</h1>
@@ -70,4 +70,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/? username=gab0403&label=Profile%20views&color=0e75b6&style=flat" alt="gab0403" /> </p>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
