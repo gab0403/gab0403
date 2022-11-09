@@ -1,9 +1,7 @@
 <div>
 <img width="420px" src="https://github-readme-stats.vercel.app/api?username=gab0403&show_icons=true&locale=en&theme=radical" alt="gab0403" />
 <img width="210px" src="https://github-readme-stats.vercel.app/api/top-langs?username=gab0403&show_icons=true&locale=en&layout=compact&theme=radical" alt="gab0403" />
-<div>
 <img width="250px" src="https://github-readme-streak-stats.herokuapp.com/?user=gab0403&theme=radical" alt="gab0403" />
-</div>
 </div>
 
 -----
