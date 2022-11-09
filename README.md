@@ -3,7 +3,7 @@
 </div>
 <div>
 <img align="left"  width="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=gab0403&show_icons=true&locale=en&layout=compact&theme=radical" alt="gab0403" />
-<img align="center"  width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=gab0403&theme=radical" alt="gab0403" />
+<img align="center"  width="250px" src="https://github-readme-streak-stats.herokuapp.com/?user=gab0403&theme=radical" alt="gab0403" />
 </div>
 
 -----
