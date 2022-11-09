@@ -9,6 +9,8 @@
 
 <h3 align="center">Desenvolvedora Web FullStack e graduanda em Pedagogia. Amo ler livros de romance, suspense e terror, e cuidar das minhas suculentas.:potted_plant::books:</h3>
 
+-----
+
 <h3 align="left">Tecnologias:</h3>
 <p align="left">  
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
