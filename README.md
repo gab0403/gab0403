@@ -77,7 +77,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github- profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gab0403&theme=radical" alt="gab0403" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/? username=gab0403&label=Profile%20views&color=blueviolet&style=plastic" alt="gab0403" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/? username=gab0403&label=Profile%20views&color=ff69b4&style=plastic" alt="gab0403" /> </p>
 
 -----
 
