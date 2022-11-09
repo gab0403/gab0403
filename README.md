@@ -7,7 +7,7 @@
 
 <h1 align="center">Sobre mim:</h1>
 
-<h3 align="center">Desenvolvedora Web FullStack e graduanda em Pedagogia. Amo ler livros de romance, suspense e terror, e cuidar das minhas suculentas.:potted_plant::books:</h3>
+<h3 align="center">Desenvolvedora Web FullStack e graduanda em Pedagogia. Amo ler livros de romance, suspense e terror, e cuidar das minhas suculentas. :potted_plant::books:</h3>
 
 -----
 
