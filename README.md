@@ -66,7 +66,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gabrielarodrigues-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabrielarodrigues-dev/" height="30" width="40" /></a>
  
-<p> *** gabriela0403rodriguesdossanto@gmail.com *** </p>
+**gabriela0403rodriguesdossanto@gmail.com**
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github- profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gab0403" alt="gab0403" /></a> </p>
