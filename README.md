@@ -3,6 +3,8 @@
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gab0403&" alt="gab0403" /></p>
 
+-----
+
 <h1 align="center">Sobre mim:</h1>
 
 <h3 align="center">Desenvolvedora Web FullStack e graduanda em Pedagogia. Amo ler livros de romance, suspense e terror, e cuidar das minhas suculentas.:potted_plant::books:</h3>
