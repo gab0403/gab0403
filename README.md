@@ -10,7 +10,7 @@
 
 <h3 align="center">Desenvolvedora Web FullStack, estudante de Quality Assurance e graduanda em Pedagogia. Amo ler livros de romance, suspense e terror, e cuidar das minhas suculentas. :potted_plant::books:</h3>
 
-<h1 color="blue">Sobre mim:</h1>
+The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
 
 -----
 
