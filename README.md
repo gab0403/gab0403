@@ -9,7 +9,9 @@
 <h1 align="center">Sobre mim:</h1>
 
 <h3 align="center">Desenvolvedora Web FullStack, estudante de Quality Assurance e graduanda em Pedagogia. Amo ler livros de romance, suspense e terror, e cuidar das minhas suculentas. :potted_plant::books:</h3>
+
 {c:red}texto vermelho.{/c}
+
 -----
 
 <h3 align="left">Tecnologias:</h3>
