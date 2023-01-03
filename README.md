@@ -10,11 +10,7 @@
 
 <h3 align="center">Desenvolvedora Web FullStack, estudante de Quality Assurance e graduanda em Pedagogia. Amo ler livros de romance, suspense e terror, e cuidar das minhas suculentas. :potted_plant::books:</h3>
 
-$\colorbox{red}{text}$
-
-Text inside bordered Box 
-
-$\fbox{Hello there}$
+$\text{hello}$    #normal
 
 -----
 
